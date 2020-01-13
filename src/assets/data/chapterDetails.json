@@ -1,34 +1,28 @@
 {
-    "ChapterName":"GDG Jalandhar",
-    "ChapterShortDescription":"Google Developers Group Jalandhar is an initiative to concentrate the efforts of many developers in and around Punjab to learn, share and get productive using the various Google products.",
-    "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "ChapterEmail":"gdgjalandhar@gmail.com",
-    "website":"https://gdgjalandhar.com",
-    "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "ChapterName":"Sakura Fukoka Studio",
+    "ChapterShortDescription":"Sakura Fukoka Studio is an ordinary game studio based on Sidoarjo. We create digital content for free without any charges also we create desktop game for fun. We don't think much about money!",
+    "ChapterLongDec":"Sakura Fukoka Studio is an Ordinary Studio based on Sidoarjo. We create digital content for free without any charges also we create desktop game for fun. We don't think much about money!",
+    "ChapterEmail":"histudio@auruchan.web.id",
+    "website":"https://auruchan.web.id",
+    "journalWeb": "https://medium.com/sakura-fukoka-studio",
+    "GDGProgramWebsite":"https://journal.auruchan.web.id",
+    "ChapterHashTags":["sakurafukokastudio","sakurafukoka"],
     "socialLinks":[
         {
-            "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
-            "icon" : "fab fa-facebook"
-        },
-        {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
-        },
-        {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/sakurafukokastudio",
             "icon" : "fab fa-twitter"
         },
         {
-            "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
-            "icon" : "fab fa-meetup"
+            "name" : "Medium",
+            "link" : "https://medium.com/sakura-fukoka-studio",
+            "icon" : "fab fa-medium"
+        },
+        {
+            "name" : "Github",
+            "link" : "https://github.com/sakurafukokastudio",
+            "icon" : "fab fa-github"
         }
     ],
-    "wtmWebsite":"https://www.womentechmakers.com/",
-    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+    "aboutGDGProgram":"We are developer who are interested in community building to create sustainable city."
 }
